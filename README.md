@@ -40,4 +40,4 @@
 - **JavaScript** for interactivity — hero carousel, dynamic sections, etc.
 
 ##  Getting Started
-biker-zone-sh.netlify.app/
+-biker-zone-sh.netlify.app/
