@@ -1,10 +1,13 @@
 # Biker Zone
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/your-site-name/deploys)
+
 **Ride in Style, Purchase with Confidence**
 
 ---
 
 ![Hero Image](/images/others/hero.png)
+
 
 ##  Overview
 
