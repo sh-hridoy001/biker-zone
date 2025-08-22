@@ -4,7 +4,7 @@
 
 ---
 
-![Hero Image](path-to-your-hero-image.jpg)
+![Hero Image](/images/others/hero.png)
 
 ##  Overview
 
